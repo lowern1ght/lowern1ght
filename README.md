@@ -1,4 +1,5 @@
-<img src="banner.png" 
+<img width=640 height=320
+src="banner_gh.png" 
 alt="banner">
 
 
