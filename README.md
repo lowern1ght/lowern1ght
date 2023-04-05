@@ -1,8 +1,8 @@
-<p align="center">
+﻿<p align="center">
 <img src="banner_3.png" alt="banner">
 </p>
 
-<hr>
+## GitHub Stats (ˉ﹃ˉ)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lowern1ght&theme=graywhite&show_icons=true">
