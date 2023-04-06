@@ -15,7 +15,7 @@
 ## GitHub Stats (ˉ﹃ˉ)
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=lowern1ght&theme=graywhite&show_icons=true](https://github-profile-trophy.vercel.app/?username=lowern1ght)](https://github.com/lowern1ght/github-profile-trophy)">
+<img src="https://github-readme-stats.vercel.app/api?username=lowern1ght&theme=graywhite&show_icons=true">
 </p>
 
 <p align="center">
