@@ -1,5 +1,5 @@
 ﻿<p align="center">
-<img src="banner_6.png" alt="banner">
+<img src="banner_7.png" alt="banner">
 </p>
 
 ## About me 🎙
