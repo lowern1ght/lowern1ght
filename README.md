@@ -2,13 +2,12 @@
 <img src="banner_7.png" alt="banner">
 </p>
 
-### Skills (*/ω＼*)
+---
 
-> **1C 8.3, УТ 11.5, 1C 7.7**
-> **.NET, ASP.NET Core, Avalonia, Electron.NET, React, TypeScript, Node.js**
-> **PostgreSQL, MSSQL, SQLite**
+- developing...
 
-# GitHub Stats (ˉ﹃ˉ)
+
+---
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowern1ght&layout=compact&card_width=700">
