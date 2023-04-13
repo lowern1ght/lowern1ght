@@ -10,7 +10,6 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowern1ght&layout=compact&card_width=700">
 <img src="https://github-profile-trophy.vercel.app/?username=lowern1ght">
 </p>
 
