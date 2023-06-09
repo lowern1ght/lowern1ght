@@ -12,8 +12,8 @@ While everyone was walking and enjoying, I was learning the basics of the IT wor
 I started with a simple layout before sites on react.
 I wrote bots, parsers for sites on selenium, 
 mini-applications in c++ for <code>unix</code> and <code>windows</code> machines,
-worked with postgresql, administered, configured on the first job
-And it went on. Currently logged in <strong>.NET</strong> and <strong>ASP .NET Core</strong>, 
+worked with postgresql, administered, configured on the first job. 
+Currently active work with <strong>.NET</strong> and <strong>ASP .NET Core</strong>,
 and
 </p>
 
