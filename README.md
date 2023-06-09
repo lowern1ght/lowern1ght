@@ -27,8 +27,7 @@ and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-git,cs,dotnet,cpp,cmake,html,css,bootstrap,react,ts,js,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp,cmake,html,css,bootstrap,react,ts,js,postgresql,redis" />
   </a>
 </p>
 
