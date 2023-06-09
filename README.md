@@ -6,6 +6,17 @@
 <strong>Hi</strong> ✋, I'm a young programmer from <code>Russia</code>. Glad to see you here (●'◡'●)
 </p>
 
+---
+
+<p align="center" style="font-size: 13px">
+I like 3d modeling out of a hobby, 
+I could have left a link to <code>sketchfab</code>,
+but my account was blocked due to the political situation 
+<strike>(because I am of Russian nationality)</strike>. 
+There is a video on my YouTube 
+<a href="https://www.youtube.com/channel/UC3lD0dc9YRnF5z4bUbE-FpA">Channel</a>.
+</p>
+
 <p align="center" style="align-content: center; font-size: 13px">
 I love writing code, I've had a passion for it since I was 14.
 While everyone was walking and enjoying, I was learning the basics of the IT world.
