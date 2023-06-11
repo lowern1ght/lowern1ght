@@ -26,6 +26,7 @@ mini-applications in c++ for <code>unix</code> and <code>windows</code> machines
 worked with postgresql, administered, configured on the first job. 
 Currently active work with <strong>.NET</strong> and <strong>ASP .NET Core</strong>
 </p>
+
 ---
 
 <p align="center" style="font-size: 14px">My knowledge <strong>stack</strong> 🧠</p>
