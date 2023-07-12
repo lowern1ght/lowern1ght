@@ -19,13 +19,10 @@ There is a video on my YouTube
 
 <p align="center" style="align-content: center; font-size: 13px">
 I love writing code, I've had a passion for it since I was 14.
-While everyone was walking and enjoying, I was learning the basics of the IT world.
 I started with a simple layout before sites on react.
 I wrote bots, parsers for sites on selenium, 
 mini-applications in c++ for <code>unix</code> and <code>windows</code> machines,
-worked with postgresql, administered, configured on the first job. 
-Currently active work with <strong>.NET</strong> and <strong>ASP .NET Core</strong>
-</p>
+worked with postgresql, administered, configured.</p>
 
 ---
 
@@ -36,12 +33,3 @@ Currently active work with <strong>.NET</strong> and <strong>ASP .NET Core</stro
     <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp,cmake,html,css,bootstrap,react,ts,js,postgresql,redis" />
   </a>
 </p>
-
----
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lowern1ght">
-</p>
-
-
-
