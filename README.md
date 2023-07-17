@@ -11,18 +11,13 @@
 <p align="center" style="font-size: 13px">
 I like 3d modeling out of a hobby, 
 I could have left a link to <code>sketchfab</code>,
-but my account was blocked due to the political situation 
-<strike>(because I am of Russian nationality)</strike>. 
+but my account was blocked due to the political situation
 There is a video on my YouTube 
 <a href="https://www.youtube.com/channel/UC3lD0dc9YRnF5z4bUbE-FpA">Channel</a>.
 </p>
 
 <p align="center" style="align-content: center; font-size: 13px">
 I love writing code, I've had a passion for it since I was 14.
-I started with a simple layout before sites on react.
-I wrote bots, parsers for sites on selenium, 
-mini-applications in c++ for <code>unix</code> and <code>windows</code> machines,
-worked with postgresql, administered, configured.</p>
 
 ---
 
