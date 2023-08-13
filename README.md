@@ -16,6 +16,6 @@ do not hesitate to contact me. I was glad to see you here
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,cpp,cmake,html,css,bootstrap,ts"  alt="knowledge"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,ts,rust"  alt="knowledge"/>
   </a>
 </p>
