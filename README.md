@@ -25,6 +25,6 @@ do not hesitate to contact me. I was glad to see you here
 ---
 
 <div align="center">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowern1ght&layout=donut-vertical" />
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=lowern1ght&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=graywhite"/>
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowern1ght&layout=donut-vertical" />
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=lowern1ght&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=graywhite"/>
 </div>
