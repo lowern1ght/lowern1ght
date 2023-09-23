@@ -21,3 +21,15 @@ do not hesitate to contact me. I was glad to see you here
     <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,ts"  alt="knowledge"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+![lowern1ght stats](https://github-readme-stats.vercel.app/api?username=lowern1ght&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=graywhite)
+
+---
+
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=lowern1ght&layout=compact)
+
+</div>
