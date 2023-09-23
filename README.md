@@ -17,9 +17,9 @@ do not hesitate to contact me. I was glad to see you here
 <p align="center" style="font-size: 14px">My knowledge <strong>stack</strong> 🧠</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,ts"  alt="knowledge"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,cmake"  alt="knowledge"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite"/> <br>
+    <img src="https://skillicons.dev/icons?i=docker,postgres,redis,rabbitmq,linux"  alt="knowledge"/>
 </p>
 
 ---
