@@ -1,13 +1,26 @@
 ﻿<p align="center">
-<img src="resources/banner_fnl.png" alt="banner">
+<img src="resources/banner_fnl.png" alt="lowern1ght">
 </p>
 
 ---
 
-### [My resume](https://github.com/lowern1ght/resume-lwnight) 😊
+<p align="center">
+  <strong>part of <a href="https://github.com/dot-stbl">.stbl</a></strong> &nbsp;·&nbsp;
+  <a href="https://stbl.space">stbl.space</a>
+</p>
+
+---
+
+### [My resume](https://github.com/lowern1ght/resume-lwnight)
 
 <p align="center" style="font-size: 13px">
-Hi, I love coding. I've been doing this since I was 14.
-I am open to joint projects,
-do not hesitate to contact me. I was glad to see you here
+Open source infrastructure software — see <a href="https://github.com/dot-stbl">github.com/dot-stbl</a> for the full list of repositories.
 </p>
+
+<p align="center" style="font-size: 13px">
+I'm open to joint projects — drop a line. Glad to see you here.
+</p>
+
+---
+
+<sub><code>.stbl</code> — the hidden file at the bottom of every product we ship.</sub>
