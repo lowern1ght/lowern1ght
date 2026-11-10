@@ -14,6 +14,10 @@
 ### [My resume](https://github.com/lowern1ght/resume-lwnight)
 
 <p align="center" style="font-size: 13px">
+Backend developer &amp; system architect — high-load systems, agentic engineering, MCP.
+</p>
+
+<p align="center" style="font-size: 13px">
 Open source infrastructure software — see <a href="https://github.com/dot-stbl">github.com/dot-stbl</a> for the full list of repositories.
 </p>
 
