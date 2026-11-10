@@ -14,7 +14,7 @@
 ### [My resume](https://github.com/lowern1ght/resume-lwnight)
 
 <p align="center" style="font-size: 13px">
-Backend developer &amp; system architect — high-load systems, agentic engineering, MCP.
+Backend developer &amp; system architect — web applications, high-load services, agentic systems.
 </p>
 
 <p align="center" style="font-size: 13px">
